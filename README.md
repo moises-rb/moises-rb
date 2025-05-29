@@ -30,7 +30,7 @@
   <img align="center" alt="PowerBI" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg">
   <img align="center" alt="Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
 </div>
 
@@ -54,7 +54,19 @@
 ## 🌐 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moisesrsjr/) 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@moises.rsjr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moises-rb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moises.rsjr@gmail.com)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/moises-rb">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises-rb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-rb&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
