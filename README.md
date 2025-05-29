@@ -30,7 +30,7 @@
   <img align="center" alt="PowerBI" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
 </div>
 
