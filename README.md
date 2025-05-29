@@ -1,52 +1,61 @@
 
-# 👋 Olá, eu sou Moisés Ribeiro!
+<h1 align="center">👋 Olá, eu sou Moisés Ribeiro</h1>
 
-🎯 **Profissional de Melhoria Contínua | Dados | Processos | Tecnologia**
+<p align="center">
+🎯 Profissional de Melhoria Contínua | Dados | Processos | Tecnologia <br>
+🔍 Apaixonado por gerar valor, resolver problemas e transformar dados em decisões. <br>
+🚀 Foco em entregar resultados sustentáveis por meio da melhoria contínua.
+</p>
 
-Sou apaixonado por resolver problemas, transformar dados em decisões e impulsionar resultados por meio da melhoria contínua. Minha atuação combina **processos, dados e tecnologia** para gerar impacto real nos negócios.
+---
 
-Atuo com:
-- 🔍 **Análise e Otimização de Processos**
-- 📊 **Dados para Tomada de Decisão**
-- 🛠️ **Projetos de Melhoria Contínua (PDCA, DMAIC, Lean Six Sigma)**
-- 💻 **Tecnologia aplicada a negócios (SQL, Modelagem de Dados, Análise de Dados)**
+## 💡 Sobre mim
+- 🔥 **Transformo processos, dados e tecnologia em resultados de negócio.**
+- 💼 Atuo com Melhoria Contínua, Análise de Dados e Gestão de Processos.
+- 🎯 Experiência com projetos de PDCA, DMAIC, Lean Six Sigma e Modelagem de Dados.
+- 📊 Foco em traduzir dados e informações em **insights acionáveis para decisões estratégicas.**
 
 ---
 
 ## 🚀 Atualmente desenvolvo projetos em:
-- 📈 **Análise de Dados** — Transformando dados em insights para negócios.
-- 🔗 **Modelagem de Dados** — Estruturando informações para apoiar a tomada de decisão.
-- 🔥 **Melhoria de Processos** — Aplicando metodologias como PDCA, PDSA, DMAIC e Lean.
+- 📈 **Análise de Dados** — Insights para negócios e performance.
+- 🔗 **Modelagem de Dados** — Estruturação de dados para tomada de decisão.
+- 🔥 **Melhoria de Processos** — Aplicando Lean, PDCA, DMAIC, BPMN e Automação.
 
 ---
 
-## 💼 **Projetos em Destaque**
-- 🔹 **DataScienceONE** — Jornada completa de aprendizado em Ciência de Dados, com projetos práticos e desafios resolvidos.
-- 🔹 **Modelagem de Dados** — Desenvolvimento de modelos conceituais e relacionais aplicados a diferentes cenários.
-- 🔹 **Alura Store Analysis** — Projeto de análise de performance de lojas, com storytelling de dados e insights acionáveis.
+## 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+</div>
 
 ---
 
-## 🛠️ **Skills e Ferramentas**
-- **Processos:** Lean, Six Sigma, PDCA, DMAIC, BPMN
-- **Dados:** SQL, Power BI, Excel Avançado, Storytelling de Dados
-- **Modelagem:** Entidade-Relacionamento, Modelagem Conceitual, Modelagem Relacional
-- **Outros:** Python (iniciante), Git & GitHub, Metodologias Ágeis
+## 🌱 Atualmente aprendendo
+- 🧠 Ciência de Dados
+- 🏗️ Modelagem Avançada de Dados
+- 🤖 Automação de Processos com IA
 
 ---
 
-## 🌱 **Atualmente aprendendo:**
-- 🔸 **Ciência de Dados**
-- 🔸 **Modelagem Avançada de Dados**
-- 🔸 **Automação de Processos com IA**
+## 🚩 Projetos em Destaque
+- 📊 **DataScienceONE** — Jornada prática em ciência de dados.  
+- 🏬 **Alura Store Analysis** — Análise de performance de lojas, storytelling e insights.  
+- 🏥 **Modelagem de Dados - Clínica Médica** — Modelagem conceitual e relacional para sistema de agendamento.  
+*(Adicione os links dos projetos aqui)*
 
 ---
 
-## 📫 **Vamos nos conectar?**
-- 💼 [LinkedIn](https://www.linkedin.com/in/moisesrsjr/)
-- 📝 [Medium](https://medium.com/@moises.rsjr)
-- ✉️ **moises.rsjr@gmail.com**
+## 🌐 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moisesrsjr/) 
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@moises.rsjr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moises.rsjr@gmail.com)
 
 ---
 
-**_"Melhorar processos não é cortar custos. É aumentar valor, reduzir desperdícios e gerar resultados sustentáveis."_**
+> **_"Melhorar processos não é cortar custos. É aumentar valor, reduzir desperdícios e gerar resultados sustentáveis."_**
